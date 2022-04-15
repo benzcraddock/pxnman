@@ -14,10 +14,5 @@
     "@babel/core": "^7.17.9",
     "@babel/plugin-transform-runtime": "^7.17.0",
     "parcel-bundler": "^1.12.5"
-  },
-  "babel": {
-    "plugins": [
-      "@babel/plugin-transform-runtime"
-    ]
   }
 }

@@ -28,7 +28,7 @@ body {
 }
 
 #wrapper {
-  margin-top: 50px;
+  margin-top: 15px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -74,7 +74,7 @@ body {
 }
 
 #start-button {
-  margin-top: 20px;
+  margin: 25px;
   font-family: Roboto Mono, sans-serif;
   color: white;
   font-size: 2rem;
